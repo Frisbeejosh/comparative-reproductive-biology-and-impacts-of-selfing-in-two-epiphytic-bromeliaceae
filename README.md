@@ -1,12 +1,10 @@
-# Comparative Reproductive Biology and Impacts of Selfing in Two Epiphytic Bromeliaceae
-
-This repository contains the manuscript, figures, supplementary materials, and raw data supporting a comparative study of reproductive biology and selfing effects in *Vriesea rafaelii* and *Billbergia brasiliensis*, two epiphytic Bromeliaceae.
-
-**Authors:** Joshua M. Felton, M. Shane Heschel, Erin N. Bodine, Rachel S. Jabaily
-
+## Comparative Reproductive Biology and Impacts of Selfing in Two Epiphytic Bromeliaceae
+Joshua M. Felton, M. Shane Heschel, Erin N. Bodine, Rachel S. Jabaily
 https://doi.org/10.64898/2026.07.20.739642
 
-## Repository contents
+repository contains the manuscript, figures, supplementary materials, and raw data
+
+### Repository contents
 
 | File | Description |
 |---|---|
@@ -16,7 +14,7 @@ https://doi.org/10.64898/2026.07.20.739642
 | `figure-2-github.pdf` | Figure 2 |
 | `Billbergia_Vriesea_sheet total.xlsx` | Raw reproductive trait data underlying the manuscript and supplementary tables |
 
-## Data
+### Data
 
 `Billbergia_Vriesea_sheet total.xlsx` contains the raw reproductive trait measurements underlying the analyses in the manuscript and supplementary tables.
 
@@ -38,13 +36,3 @@ https://doi.org/10.64898/2026.07.20.739642
 | BRIX | Sugar content, refractometer reading (recorded for a subset of individuals) | degrees Brix |
 
 **Pup Masses** - wet and dry pup mass summaries by species.
-
-*(Fill in the bracketed items above with the actual definitions/units before publishing.)*
-
-## Citation
-
-If you use this data, please cite the associated manuscript (citation to be added upon publication/DOI assignment).
-
-## Contact
-
-Joshua M. Felton - [add contact/email or ORCID]
