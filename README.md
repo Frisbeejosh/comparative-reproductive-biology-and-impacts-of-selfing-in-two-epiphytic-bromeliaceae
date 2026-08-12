@@ -4,8 +4,6 @@ https://doi.org/10.64898/2026.07.20.739642
 
 repository contains the manuscript, figures, supplementary materials, and raw data
 
-### Repository contents
-
 | File | Description |
 |---|---|
 | `COMPARATIVE_REPRODUCTIVE_BIOLOGY_AND_IMPACTS_OF_SELFING_IN_TWO_EPIPHYTIC_BROMELIACEAE.pdf` | Full manuscript |
