@@ -10,11 +10,11 @@ repository contains the manuscript, figures, supplementary materials, and raw da
 | `Supplementary_Tables_S1_S2.docx` | Supplementary tables S1-S2 |
 | `figure-1.png` | Figure 1 |
 | `figure-2-github.pdf` | Figure 2 |
-| `Billbergia_Vriesea_sheet total.xlsx` | Raw reproductive trait data underlying the manuscript and supplementary tables |
+| `raw-data.xlsx` | Raw reproductive trait data underlying the manuscript and supplementary tables |
 
 ### Data
 
-`Billbergia_Vriesea_sheet total.xlsx` contains the raw reproductive trait measurements underlying the analyses in the manuscript and supplementary tables.
+`raw-data.xlsx` contains the raw reproductive trait measurements underlying the analyses in the manuscript and supplementary tables.
 
 
 | Column | Description | Units |
@@ -25,11 +25,7 @@ repository contains the manuscript, figures, supplementary materials, and raw da
 | Self or Outcrossed | Pollination treatment (S = self, O = outcrossed) | - |
 | Capsule Mass (g) | Mass of resulting capsule | g |
 | Seed Mass (g) | Mass of seeds from capsule | g |
-| Inflorescence mass | - | *(add units)* |
-| Scape length | - | *(add units)* |
-| MOM LLL | - | *(define)* |
-| Veg mass | Vegetative mass | *(add units)* |
-| High/Low | *(define coding; recorded for a subset of individuals)* | - |
-| BRIX | Sugar content, refractometer reading (recorded for a subset of individuals) | degrees Brix |
-
-**Pup Masses** - wet and dry pup mass summaries by species.
+| Inflorescence mass | - | g |
+| Scape length | - | cm |
+| MOM LLL | Longest Leaf Length for the mother rosette | cm|
+| Veg mass | Vegetative mass | g |
