@@ -16,7 +16,6 @@ repository contains the manuscript, figures, supplementary materials, and raw da
 
 `Billbergia_Vriesea_sheet total.xlsx` contains the raw reproductive trait measurements underlying the analyses in the manuscript and supplementary tables.
 
-**Sheet1** - per-flower/capsule measurements for both species.
 
 | Column | Description | Units |
 |---|---|---|
