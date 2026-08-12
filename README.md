@@ -4,7 +4,7 @@ This repository contains the manuscript, figures, supplementary materials, and r
 
 **Authors:** Joshua M. Felton, M. Shane Heschel, Erin N. Bodine, Rachel S. Jabaily
 
-**Submitted to:** *Selbyana* (journal of Marie Selby Botanical Gardens)
+https://doi.org/10.64898/2026.07.20.739642
 
 ## Repository contents
 
